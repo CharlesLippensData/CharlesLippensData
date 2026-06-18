@@ -50,7 +50,7 @@ Treize projets professionnalisants (plus une mission en entreprise) couvrant l'e
 | 5 | [Base de données immobilière (SQL)](https://github.com/CharlesLippensData/Projet-5-Base-de-donnees-immobiliere-SQL) | SQL, 3NF, PostgreSQL, RGPD | Validé |
 | 6 | [Gestion des données d'une boutique](https://github.com/CharlesLippensData/Projet-6-Gestion-des-donnees-boutique) | Nettoyage, jointures, outliers, corrélations | Validé |
 | 7 | [Tableau de bord Power BI](https://github.com/CharlesLippensData/Projet-7-Tableau-de-bord-Power-BI) | Power BI, Power Query, DAX | Validé |
-| 8 | [Profils sociodémographiques avec dbt](https://github.com/CharlesLippensData/Projet-8-Analyse-sociodemographique-des-etudiants-Data-OC) | dbt, Snowflake, pipelines, tests | Validé |
+| 8 | [Profils sociodémographiques avec dbt](https://github.com/CharlesLippensData/Projet-8-Analyse-sociodemographique-des-etudiants-Data-OC-avec-DBT) | dbt, Snowflake, pipelines, tests | Validé |
 | 9 | [Ventes d'une librairie](https://github.com/CharlesLippensData/Projet-9-Analyse-des-ventes-librairie) | Séries temporelles, tests statistiques | Validé |
 | 10 | [Étude sur l'eau potable](https://github.com/CharlesLippensData/Projet-10-Etude-sur-l-eau-potable) | Dashboard interactif, Tableau / Power BI | En cours |
 | 11 | [Étude de marché internationale](https://github.com/CharlesLippensData/Projet-11-Etude-de-marche-internationale) | ACP, clustering (k-means, CAH) | À venir |
