@@ -78,7 +78,6 @@ Au-delà du parcours, j'explore et regroupe mes réalisations par thématique. C
 
 ## Me contacter
 
-- **Email** — [lippens.charles34@gmail.com](mailto:lippens.charles34@gmail.com)
 - **GitHub développement** — je dispose d'un second compte GitHub dédié à mes projets de développement.
 
 ---
