@@ -17,6 +17,8 @@ Je termine le parcours certifiant **Data Analyst** d'OpenClassrooms (titre RNCP 
 
 **Je reste ouvert aux opportunités : premier emploi Data Analyst (CDI, CDD ou mission) ou alternance Data Engineer.**
 
+**Mon portfolio : [charleslippensdata.github.io](https://charleslippensdata.github.io/)**, avec les quatorze projets du parcours, leurs livrables à télécharger et ma veille.
+
 ![Open to work](https://img.shields.io/badge/Disponible-Emploi%20%2F%20Alternance%20%2F%20Mission-2ea44f)
 ![Métiers](https://img.shields.io/badge/Métiers-Data%20Analyst%20%7C%20Data%20Engineer-7451eb)
 
